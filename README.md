@@ -1,2 +1,2 @@
 # Computer-Vision
-Using different computer vision tools
+In this project I implemen an image similarity–based clothing recommendation system using a pretrained VGG16 model. Images are processed to extract deep visual features, which are then normalized and compared using cosine similarity. Given a query image, the system recommends visually similar clothing items from a catalog dataset, demonstrating how convolutional neural networks can be used for content-based image retrieval.
